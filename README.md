@@ -1,5 +1,6 @@
 # ketang
-
+![Image text](https://github.com/delonglimin/eduWhiteBoard/raw/master/public/1.png)
+![Image text](https://github.com/delonglimin/eduWhiteBoard/raw/master/public/2.png)
 ## Project setup
 ```
 npm install
